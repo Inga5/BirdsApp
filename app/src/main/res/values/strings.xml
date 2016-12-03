@@ -1,0 +1,52 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=20] -->
+    <string name="app_name">Do you know the birds?</string>
+
+    <!-- name for the bird_prompt. [CHAR LIMIT=30] -->
+    <string name="bird_prompt">You selected:</string>
+
+    <!-- name for the bird_prompt. [CHAR LIMIT=10] -->
+    <string name="btn_next">Reset</string>
+
+    <!-- name for the birds. [CHAR LIMIT=30] -->
+    <string name="blackbird">blackbird</string>
+    <string name="bluetit">bluetit</string>
+    <string name="chaffinch">chaffinch</string>
+    <string name="jay">jay</string>
+    <string name="pigeon">pigeon</string>
+    <string name="sparrow">sparrow</string>
+    <string name="magpie">magpie</string>
+    <string name="woodpecker">woodpecker</string>
+
+    <!-- name for answers. [CHAR LIMIT=40] -->
+    <string name="textYes1">Marvellous, I like that.</string>
+    <string name="textNo1">That\'s definitely not right!</string>
+    <string name="textYes2">You are really good!</string>
+    <string name="textNo2">Oops, try it again!</string>
+    <string name="textYes3">Excellent job!</string>
+    <string name="textNo3">Please think again!</string>
+    <string name="textYes4">Yes, you are great</string>
+    <string name="textNo4">What?! Are you kidding?.</string>
+    <string name="textYes5">Wonderful!</string>
+    <string name="textNo5">Are you drunken?</string>
+    <string name="textYes6">Excellent!</string>
+    <string name="textNo6">No, you are wrong.</string>
+    <string name="textYes7">Fantastic!</string>
+    <string name="textNo7">Unfortunately No.</string>
+    <string name="textYes8">Good work!</string>
+    <string name="textNo8">It\'s not correct.</string>
+    <string name="textStart">Please touch a bird and compare with your selection</string>
+
+    <!-- list of birds. -->
+    <string-array name="list_of_birds">
+        <item>blackbird</item>
+        <item>bluetit</item>
+        <item>chaffinch</item>
+        <item>jay</item>
+        <item>pigeon</item>
+        <item>sparrow</item>
+        <item>magpie</item>
+        <item>woodpecker</item>
+    </string-array>
+
+</resources>

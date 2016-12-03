@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kennst Du die Vögel?</string>
+    <string name="bird_prompt">Du hast ausgewählt:</string>
+
+    <!-- list of birds. -->
+    <string-array name="list_of_birds">
+        <item>Amsel</item>
+        <item>Blaumeise</item>
+        <item>Buchfink</item>
+        <item>Eichelhäher</item>
+        <item>Taube</item>
+        <item>Spatz</item>
+        <item>Elster</item>
+        <item>Buntspecht</item>
+    </string-array>
+
+    <!-- name for the birds. [CHAR LIMIT=30] -->
+    <string name="jay">Eichelhäher</string>
+    <string name="blackbird">Amsel</string>
+    <string name="bluetit">Blaumeise</string>
+    <string name="chaffinch">Buchfink</string>
+    <string name="magpie">Elster</string>
+    <string name="pigeon">Taube</string>
+    <string name="sparrow">Spatz</string>
+    <string name="woodpecker">Buntspecht</string>
+    <string name="textNo1">Ganz bestimmt nicht!</string>
+    <string name="textNo2">Versuche es noch einmal!</string>
+    <string name="textNo3">Denk nochmal nach!</string>
+    <string name="textNo4">Was?! Machst Du Witze?</string>
+    <string name="textNo5">Bist Du betrunken?</string>
+    <string name="textNo6">Nein, Du hast Dich geirrt.</string>
+    <string name="textNo7">Leider Nein.</string>
+    <string name="textNo8">Das ist nicht richtig.</string>
+    <string name="textYes1">Fabelhaft, das gefällt mir.</string>
+    <string name="textYes2">Du bist wirklich gut!</string>
+    <string name="textYes3">Ausgezeichnete Arbeit!</string>
+    <string name="textYes4">Ja, Du bist großartig!</string>
+    <string name="textYes5">Wunderbar!</string>
+    <string name="textYes6">Ausgezeichnet!</string>
+    <string name="textYes7">Fantastisch!</string>
+    <string name="textYes8">Gute Arbeit!</string>
+    <string name="btn_next">Neustart</string>
+    <string name="textStart">Bitte berühre einen Vogel und vergleiche mit Deiner Auswahl</string>
+
+</resources>
