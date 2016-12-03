@@ -2,32 +2,32 @@
 <instant-run
     abi="x86"
     api-level="19"
-    density="xxhdpi"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="14854879888735"
+    timestamp="23027797538839"
     token="4908011973255447533"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="410" />
+        duration="3096" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="150" />
+        duration="1029" />
     <task
         name="verifier"
-        duration="18" />
+        duration="62" />
 
     <artifact
         location="/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="14854879888735"
+        timestamp="23027797538839"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/outputs/apk/app-debug.apk"

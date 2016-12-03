@@ -60,20 +60,20 @@
         "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/woodpecker.png",
-        "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/src/main/res/drawable/woodpecker.png"
-    },
-    {
         "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/woodpecker.png",
+        "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/src/main/res/drawable/woodpecker.png"
     },
     {
         "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/yellowface.png",
         "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/src/main/res/drawable/yellowface.png"
+    },
+    {
+        "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/Users/ingridhoefgen/AndroidStudioProjects/kennstdudietiere/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
