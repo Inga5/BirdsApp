@@ -22,4 +22,5 @@ If you want to learn the names of the birds in German or English, so you only ne
 This app is my very first app, based to the knowledge I have learned during the course „Android Development for Beginners“ with udacity and within the meetings „WTM Berlin Android Study Jam“ in Immobilienscou24 in 2016. Thanks to all organisers and voluntaries. I had no previous knowledge in Java or another similiar programming language. You helped me a lot to understand.
 
 The smileys I created by myself. They are drawn with Pages. The photos were only edited by myself.
-I'm sure I want to go on with android developing and I'd like to get your feedback.
+
+Have fun playing this game and please, send me your feedback. I'm sure I want to go on with android developing.
