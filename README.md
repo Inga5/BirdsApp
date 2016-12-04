@@ -23,4 +23,4 @@ This app is my very first app, based to the knowledge I have learned during the 
 
 The smileys I created by myself. They are drawn with Pages. The photos were only edited by myself.
 
-Have fun playing this game and please, send me your feedback. I'm sure I want to go on with android developing.
+###Have fun playing this game and please, send me your feedback. I'm sure I want to go on with android developing.
